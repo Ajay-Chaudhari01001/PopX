@@ -1,3 +1,8 @@
+## Technology Used
+1) React
+2) Firebase
+3) Toastify
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
